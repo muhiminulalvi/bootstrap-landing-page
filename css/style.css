@@ -1,0 +1,14 @@
+.banner-img1 {
+    background-image: url(../image/carousel/1.jpg);
+    height: 90vh;
+}
+
+.banner-img2 {
+    background-image: url(../image/carousel/3.jpg);
+    height: 90vh;
+}
+
+.banner-img3 {
+    background-image: url(../image/carousel/5.jpg);
+    height: 90vh;
+}
